@@ -10,7 +10,7 @@ This cheat was created with these tools :
 
 You can look at my Cheat Engine table (incomplete but can help).
 
-### Features :
+## Features :
 
 The cheat has several features :
 
@@ -32,6 +32,8 @@ The cheat has several features :
 - Save Current Location
 - Teleport zombies to the saved location
 
-#### Demonstration :
+## Demonstration :
+
+### God Mode :
 
 ![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
