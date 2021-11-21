@@ -14,7 +14,7 @@ You can look at my Cheat Engine table (incomplete but can help).
 
 The cheat has several features :
 
-- Godmode 
+- God Mode 
 - Infinite Point
 - Infinite Ammo
 - Noclip
@@ -32,3 +32,6 @@ The cheat has several features :
 - Save Current Location
 - Teleport zombies to the saved location
 
+#### Demonstration :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
