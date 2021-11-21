@@ -6,7 +6,7 @@
 
 This cheat is based on my [D3D9 Hook ImGui](https://github.com/adamhlt/D3D9-Hook-ImGui) project.
 
-This cheat was created with these tools :
+#### This cheat was created with these tools :
 
 - [Cheat Engine](https://www.cheatengine.org/)
 - [x32dbg](https://x64dbg.com/#start)
@@ -15,7 +15,7 @@ This cheat was created with these tools :
 
 You can look at my Cheat Engine table (incomplete but can help) [here](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/CoDWaW.CT).
 
-Used librairies :
+#### Used librairies :
 
 - [MS Detours](https://www.microsoft.com/en-us/research/project/detours/)
 - [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
