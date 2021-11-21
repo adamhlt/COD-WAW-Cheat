@@ -1,3 +1,5 @@
+![Banner](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/banner.png)
+
 # Call of Duty : World at War Cheat
 
 This cheat is based on my [D3D9 ImGui](https://github.com/adamhlt/D3D9-Hook-ImGui) project.
