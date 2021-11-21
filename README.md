@@ -21,7 +21,7 @@ You can look at my Cheat Engine table (incomplete but can help) [here](https://g
 - [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 - [ImGui](https://github.com/ocornut/imgui)
 
-## Getting Started :
+## :rocket: Getting Started :
 
 Make sure you already installed DirectX 9 SDK and the environment variable "DXSDK_DIR" is set.
 
@@ -55,7 +55,7 @@ target_link_libraries(WAW detours.lib d3d9.lib d3dx9.lib)
 
 Tested on CLion with MSVC compiler, you can get Visual Studio Build Tools [**here**](https://visualstudio.microsoft.com/fr/downloads/?q=build+tools).
 
-## Features :
+## :books: Features :
 
 The cheat has several features :
 
