@@ -40,44 +40,44 @@ The cheat has several features :
 
 ### Infinite Ammo :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Infinite Ammo](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/ammo.gif)
 
 ### Noclip :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Noclip](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/noclip.gif)
 
 ### Super Knife :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Super Knife](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/knife.gif)
 
 ### No Target :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![No Target](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/no_target.gif)
 
 ### One Shot Kill :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![One Shot kill](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/one_shot.gif)
 
 ### Laser :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Laser](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/laser.gif)
 
 ### FPS & Game Version :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![FPS & Game Version](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/fps.gif)
 
 ### Third Person View :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Third Person View](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/third_person_view.gif)
 
 ### Name Spoofer :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Name Spoofer](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/name_spoofer.gif)
 
 ### ESP Line :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![ESP Line](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/esp_line.gif)
 
 ### Save Location & Teleport Zombies :
 
-![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+![Save Location & Teleport Zombies](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/teleport.gif)
