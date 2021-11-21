@@ -2,7 +2,7 @@
 
 # Call of Duty : World at War Cheat [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=plastic)](https://en.wikipedia.org/wiki/C%2B%2B) [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x86](https://img.shields.io/badge/arch-x86-red.svg)](https://en.wikipedia.org/wiki/X86) 
 
-This cheat is based on my [D3D9 ImGui](https://github.com/adamhlt/D3D9-Hook-ImGui) project.
+This cheat is based on my [D3D9 Hook ImGui](https://github.com/adamhlt/D3D9-Hook-ImGui) project.
 
 This cheat was created with these tools :
 
