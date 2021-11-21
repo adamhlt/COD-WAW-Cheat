@@ -8,7 +8,7 @@ This cheat was created with these tools :
 - IDA Pro
 - Ghidra
 
-You can look at my Cheat Engine table (incomplete but can help).
+You can look at my Cheat Engine table (incomplete but can help) [here](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/CoDWaW.CT).
 
 ## Features :
 
@@ -35,5 +35,49 @@ The cheat has several features :
 ## Demonstration :
 
 ### God Mode :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Infinite Ammo :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Noclip :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Super Knife :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### No Target :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### One Shot Kill :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Laser :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### FPS & Game Version :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Third Person View :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Name Spoofer :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### ESP Line :
+
+![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
+
+### Save Location & Teleport Zombies :
 
 ![God Mode](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/godmode.gif)
