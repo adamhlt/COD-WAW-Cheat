@@ -81,3 +81,4 @@ target_link_libraries(WAW detours.lib d3d9.lib d3dx9.lib)
 
 Tested on CLion with MSVC compiler, you can get Visual Studio Build Tools [**here**](https://visualstudio.microsoft.com/fr/downloads/?q=build+tools).
 
+https://www.youtube.com/watch?v=uu4Y1vu2Zgk
