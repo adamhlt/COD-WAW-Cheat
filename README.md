@@ -4,7 +4,9 @@
 
  [![C++](https://img.shields.io/badge/language-C%2B%2B-%23f34b7d.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/C%2B%2B) [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![x86](https://img.shields.io/badge/arch-x86-red.svg?style=for-the-badge&logo=appveyor)](https://en.wikipedia.org/wiki/X86) 
 
-
+```
+ 
+```
 
 ## :page_facing_up: Project Overview :
 
@@ -27,6 +29,10 @@ You can look at my Cheat Engine table (incomplete but can help) [here](https://g
 - [DirectX SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 - [ImGui](https://github.com/ocornut/imgui)
 
+```
+ 
+```
+
 ## :books: Features :
 
 The cheat has several features :
@@ -48,6 +54,10 @@ The cheat has several features :
 - ESP Line
 - Save Current Location
 - Teleport zombies to the saved location
+
+```
+ 
+```
 
 ## :rocket: Getting Started :
 
