@@ -49,7 +49,7 @@ The cheat has several features :
 
 ## :rocket: Getting Started :
 
-Make sure you already installed DirectX 9 SDK and the environment variable "DXSDK_DIR" is set.
+Make sure you already installed DirectX 9 SDK and the environment variable "DXSDK_DIR" is set, if you don't know how to do this go [**here**](https://github.com/adamhlt/D3D9-Hook-ImGui#rocket-getting-started).
 
 If it's not the case download DirectX 9 SDK [**here**](https://www.microsoft.com/en-us/download/details.aspx?id=6812).
 
