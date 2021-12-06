@@ -38,6 +38,10 @@ HRESULT Drawing::hkEndScene(const LPDIRECT3DDEVICE9 D3D9Device)
  */
 void Drawing::InitImGui(const LPDIRECT3DDEVICE9 D3D9Device)
 {
+	D3DDEVICE_CREATION_PARAMETERS CP;
+	D3D9Device->GetCreationParameters(&CP);
+	Hook::window = CP.hFocusWindow;
+	Hook::HookWindow();
 	ImGui::CreateContext();
 	ImGuiIO& io = ImGui::GetIO(); (void)io;
 	io.IniFilename = nullptr;

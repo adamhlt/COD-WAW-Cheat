@@ -17,6 +17,7 @@ public:
 	static void HookEndScene();
 	static void UnHookEndScene();
 	static void UnHookEndSceneAndExit();
+	static void HookWindow();
 
 private:
 	static int windowHeight, windowWidth; // height and width of the game window

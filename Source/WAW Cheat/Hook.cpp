@@ -133,6 +133,14 @@ BOOL Hook::GetD3D9Device(void** pTable, const size_t size)
 }
 
 /**
+ * Function to update the hook on the game window.
+ */
+void Hook::HookWindow()
+{
+	OWndProc = (WNDPROC)SetWindowLongPtr(window, GWLP_WNDPROC, (LONG_PTR)WndProc);
+}
+
+/**
  * Function to give the control to imgui if the menu is displayed (see : https://docs.microsoft.com/en-us/windows/win32/api/winuser/nc-winuser-wndproc)
  * \param hWnd : handle to the window
  * \param msg : control message
