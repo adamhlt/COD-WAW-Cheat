@@ -1,4 +1,4 @@
-![Banner](https://github.com/adamhlt/COD-WAW-Cheat/blob/main/Ressources/img/banner.png)
+![Cod Banner](https://user-images.githubusercontent.com/48086737/170121876-7d58affd-ea06-4e96-a7dd-f9923a220f12.png)
 
 # Call of Duty : World at War Cheat
 
