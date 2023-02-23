@@ -62,7 +62,8 @@ If it's not the case download DirectX 9 SDK [**here**](https://www.microsoft.com
 
 Every configuration in x86 (Debug and Realese) are already configured with librairies and includes.
 
-**You cannot compile this project in x64 because the game is a x86 executable.**
+> **Warning**
+> You cannot compile this project in x64 because the game is a x86 executable.
 
 ### Other IDE using CMAKE :
 
